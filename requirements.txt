@@ -1,0 +1,15 @@
+﻿llama-index
+llama-index-vector-stores-postgres
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+llama-index-readers-file
+pymupdf
+pdfplumber
+sentence-transformers
+pillow
+psycopg2-binary
+streamlit
+langchain
+langchain-ollama
+langchain-community
+ollama
